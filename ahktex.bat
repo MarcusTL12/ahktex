@@ -1,0 +1,1 @@
+ahktex_wv.ahk %1
